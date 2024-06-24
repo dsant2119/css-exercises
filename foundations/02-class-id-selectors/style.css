@@ -1,9 +1,9 @@
 .odd-element {
     background-color: #ffb6c1;
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.odd-element.third-element {
+.adjust-font-size {
     font-size: 24px;
 }
 
