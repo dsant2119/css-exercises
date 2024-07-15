@@ -11,7 +11,6 @@ body {
 .header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   padding: 8px;
   background: white;
   border-bottom: 1px solid #ddd;
@@ -20,12 +19,15 @@ body {
 
 .links {
   display: flex;
-  gap: 12px;
+  justify-content: flex-start;
+  gap: 16px;
 }
 
 .right-elems {
   display: flex;
-  gap: 12px;
+  flex: auto;
+  justify-content: flex-end;
+  gap: 16px;
 }
 
 .profile-image {
@@ -59,4 +61,6 @@ a {
 
 ul {
   list-style-type: none;
+  margin: 0;
+  padding: 16px;
 }
