@@ -20,6 +20,12 @@ body {
 
 .links {
   display: flex;
+  gap: 12px;
+}
+
+.right-elems {
+  display: flex;
+  gap: 12px;
 }
 
 .profile-image {
