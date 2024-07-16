@@ -26,13 +26,6 @@ img {
   text-align: center;
 }
 
-.text-container {
-  display: flex;
-  justify-content: space-around;
-  gap: 52px;
-  margin-left: 0 10px;
-}
-
 /* do not edit this footer */
 .footer {
   position: fixed;
