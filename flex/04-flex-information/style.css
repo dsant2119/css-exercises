@@ -21,9 +21,15 @@ img {
   gap: 52px;
 }
 
+.text {
+  width: 200px;
+  text-align: center;
+}
+
 .text-container {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
+  gap: 52px;
 }
 
 /* do not edit this footer */
