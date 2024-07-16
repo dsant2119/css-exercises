@@ -16,10 +16,13 @@ img {
 
 .plant-container {
   display: flex;
+  justify-content: space-around;
+  gap: 52px;
 }
 
 .text-container {
   display: flex;
+  justify-content: space-between;
 }
 
 /* do not edit this footer */
