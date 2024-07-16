@@ -17,7 +17,7 @@ img {
 
 .plant-container {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   gap: 52px;
 }
 
