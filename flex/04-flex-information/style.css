@@ -14,7 +14,11 @@ img {
   font-weight: 900;
 }
 
-.container {
+.plant-container {
+  display: flex;
+}
+
+.text-container {
   display: flex;
 }
 
