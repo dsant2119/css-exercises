@@ -5,6 +5,8 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
 }
 
 img {
@@ -23,13 +25,6 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
-}
-
-.v-container {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  gap: 60px;
 }
 
 .header {
