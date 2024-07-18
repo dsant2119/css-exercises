@@ -76,10 +76,6 @@ button.cancel {
   display: flex;
 }
 
-.vertical {
-  flex-direction: column;
-}
-
 .header {
   display: flex;
   justify-content: space-between;
