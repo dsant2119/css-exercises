@@ -72,7 +72,7 @@ button.cancel {
   color: royalblue;
 }
 
-.horizontal {
+.outer {
   display: flex;
 }
 
