@@ -75,15 +75,14 @@ button.cancel {
 
 .top-row {
   display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
+  align-items: normal;
   gap: 52px;
-  margin: 7px;
 }
 
 .middle-row {
   display: flex;
   justify-content: center;
+  padding: 0px 55px;
 }
 
 .bottom-row {
