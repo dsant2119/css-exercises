@@ -68,6 +68,10 @@ button.cancel {
   color: royalblue;
 }
 
+.header {
+  font-weight: bold;
+}
+
 .top-row {
   display: flex;
   justify-content: flex-start;
