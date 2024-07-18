@@ -74,8 +74,10 @@ button.cancel {
 
 .top-row {
   display: flex;
-  justify-content: flex-start;
+  justify-content: space-between;
+  align-items: flex-start;
   gap: 52px;
+  margin: 7px 10px;
 }
 
 .middle-row {
