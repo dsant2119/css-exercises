@@ -40,8 +40,8 @@ input {
 .content {
   display: flex;
   flex-direction: column;
+  gap: 8px;
   align-items: center;
-  margin-top: 125px;
 }
 
 .footer {
