@@ -28,7 +28,9 @@ input {
 .v-container {
   display: flex;
   flex-direction: column;
+  min-height: 100vh;
   justify-content: space-between;
+  gap: 60px;
 }
 
 .header {
@@ -40,15 +42,16 @@ input {
 .content {
   display: flex;
   flex-direction: column;
+  flex-grow: 1;
   gap: 8px;
   align-items: center;
 }
 
 .footer {
   display: flex;
-  flex: 1;
   justify-content: space-between;
   padding: 15px;
+  margin-top: auto;
   background-color: #eeeeee
 }
 
