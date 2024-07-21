@@ -20,6 +20,7 @@ body {
 .footer {
   display: flex;
   justify-content: center;
+  align-items: center;
   height: 72px;
   background: #eee;
   color: darkmagenta;
@@ -53,7 +54,7 @@ a {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   width: 300px;
-  height: 300px;
+  max-height: 300px;
   padding: 16px;
 }
 
